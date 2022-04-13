@@ -4,6 +4,4 @@ nota 3
 nota 4
 nota test
 nota test 2
-ultimo branch
-ultimo branch test push 3
 ultimo branch, cambio en local
